@@ -1,0 +1,25 @@
+{
+  "recommendations": [
+    "mhutchie.git-graph",
+    "github.vscode-pull-request-github",
+    "gitpod.gitpod-remote-ssh",
+    "redhat.vscode-yaml",
+    "hashicorp.terraform",
+    "pkief.material-icon-theme",
+    "mikestead.dotenv",
+    "endormi.2077-theme",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode-remote.remote-wsl",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "oderwat.indent-rainbow",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "rangav.vscode-thunder-client",
+    "Gruntfuggly.todo-tree"
+  ]
+}
